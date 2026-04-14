@@ -1,0 +1,394 @@
+[
+  {
+    "timestamp": "2026-03-21T01:25:21.379767",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.581111",
+    "src_ip": "45.33.22.6",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.666592",
+    "src_ip": "45.33.22.51",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751838",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751854",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751859",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751866",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751871",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751876",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:21.751880",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.544058",
+    "src_ip": "45.33.22.28",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625358",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625673",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625682",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625687",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625692",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625697",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625702",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625707",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:22.625712",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.501954",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.501976",
+    "src_ip": "45.33.22.192",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587294",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587308",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587311",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587314",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587317",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587320",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587323",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:23.587326",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.392040",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.392061",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.392067",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.392072",
+    "src_ip": "45.33.22.104",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.464763",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.464782",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.464788",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.464793",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.464798",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:24.464803",
+    "src_ip": "45.33.22.1",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.402378",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.402399",
+    "src_ip": "45.33.22.187",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495107",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495124",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495130",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495136",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495141",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495146",
+    "src_ip": "192.168.1.100",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-03-21T01:25:25.495150",
+    "src_ip": "45.33.22.86",
+    "score": 0.98,
+    "reason": "تهديد استباقي: رصد نمط هجوم محتمل (AI Proactive)",
+    "protocol": "TCP",
+    "severity": "CRITICAL"
+  }
+]

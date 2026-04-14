@@ -1,0 +1,6 @@
+{
+  "threshold": 0.7,
+  "capture_mode": "live",
+  "auto_block": true,
+  "proactive_mode": false
+}
