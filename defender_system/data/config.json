@@ -1,6 +1,8 @@
 {
   "threshold": 0.7,
-  "capture_mode": "live",
   "auto_block": true,
-  "proactive_mode": false
+  "proactive_mode": true,
+  "telegram_enabled": true,
+  "telegram_token": "8498376619:AAEj9dK79yCxcvUNueuF62vflE1V9iyalv0",
+  "telegram_chat_id": "1703659005"
 }
